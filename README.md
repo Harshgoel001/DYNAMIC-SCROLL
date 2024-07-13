@@ -1,1 +1,2 @@
 # DYNAMIC-SCROLL
+This project is a web-based application that leverages GSAP and Locomotive Scroll to provide smooth scrolling and dynamic animations for an enhanced user experience. Key features include loading animations, interactive navigation, hover effects onelements, and animated video playback controls. Each section of the page is designed to have unique animations triggered by user interactions and scrolling, ensuring an engaging and fluid browsing experience.
